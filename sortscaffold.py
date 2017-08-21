@@ -1,4 +1,4 @@
-#!/share/apps/python/2.7.6/intel/bin/python
+#!/usr/local/bin/python
 
 from Bio import SeqIO
 import argparse
